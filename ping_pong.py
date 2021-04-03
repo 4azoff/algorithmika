@@ -92,7 +92,7 @@ while game:
             finish = True
             window.blit(lose2, (200, 200))
             game_over = True
-
+#dadwadwa
         racket1.reset()
         racket2.reset()
         ball.reset()
